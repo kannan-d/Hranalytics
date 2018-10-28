@@ -1,3 +1,6 @@
+<b>Hr Analytics Casestudy</b>
+<sub>What factors company should focus on, in order to curb attrition</sub>
+
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every year, around 15% of its employees leave the company. Since the attrition level is too high, the management wants to use predictive modelling to bring it down.
  
 Hence, the objectives of the analysis are to:
